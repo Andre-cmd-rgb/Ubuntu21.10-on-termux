@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 version="01"
 version_code_name="installer0.1"
 installer_authors="Andre-Cmd-Rgb"
