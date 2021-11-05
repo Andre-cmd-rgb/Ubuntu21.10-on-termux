@@ -6,4 +6,3 @@ wget https://raw.githubusercontent.com/Andre-cmd-rgb/test-termux/main/update.sh
 # 
 chmod +x Install.sh
 # launching
-./update.sh
