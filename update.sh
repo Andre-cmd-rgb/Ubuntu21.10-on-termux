@@ -13,4 +13,6 @@ chmod +x update.sh.4
 # clear
 clear
 rm update.sh
+# rm update.sh.1
+# rm update.sh.2
 # launching
