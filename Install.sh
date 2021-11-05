@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+RST="\e[0m"
+RED="\e[1;31m" # *This is bold 
+GREEN="\e[1;32m"
+BLUE="\e[34m"
+DC=${BLUE}
 version="01"
 version_code_name="installer0.1"
 installer_authors="Andre-Cmd-Rgb"
