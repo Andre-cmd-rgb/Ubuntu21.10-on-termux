@@ -8,4 +8,5 @@ chmod +x Install.sh
 chmod +x update.sh
 # clear
 clear
+rm update.sh
 # launching
