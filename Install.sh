@@ -6,7 +6,7 @@ GREEN="\e[1;32m"
 BLUE="\e[34m"
 DC=${BLUE}
 # version
-version="01"
+version="02"
 version_code_name="Installer0.1"
 installer_authors="Andre"
 
