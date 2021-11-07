@@ -1,3 +1,4 @@
+#!/bin/bash
 # updating system
 apt update && apt upgrade && apt install wget && apt install git
 # cloning
