@@ -3,7 +3,9 @@ DISTRO_COMMENT="Ubuntu 21.04 xfce"
 
 TARBALL_STRIP_OPT=0
 
-TARBALL_URL['aarch64']="https://github.com/RandomCoderOrg/ubuntu-on-android/releases/download/v02-xfce4/hippo-arm64-v02-xfce4.tar.gz"
-TARBALL_SHA256['aarch64']="282a7498046ef0e4f0a57265725d739e67048bb2b64ba2f4441ca4ce1a67ea40"
-TARBALL_URL['arm']="https://github.com/RandomCoderOrg/ubuntu-on-android/releases/download/v02-xfce4/hippo-armhf-v02-xfce4.tar.gz"
-TARBALL_SHA256['arm']="e797c8590644ffd968dc1727474b533f7bc32e22f69a5f91e519614315baf211"
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v2.3.1/ubuntu-aarch64-pd-v2.3.1.tar.xz
+TARBALL_SHA256['aarch64']="599a0af87b110a9eab9f6f84b43243e497a73403397aeddb0d0b3cdb4ea54aa6"
+TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v2.3.1/ubuntu-arm-pd-v2.3.1.tar.xz"
+TARBALL_SHA256['arm']="541415c3475bf1e15a1a4e91e2b1291410ed63a1a4b6d403f9096754d8f2bd74"
+TARBALL_URL['x86_64']="https://github.com/termux/proot-distro/releases/download/v2.3.1/ubuntu-x86_64-pd-v2.3.1.tar.xz"
+TARBALL_SHA256['x86_64']="c728976dcc66eed5ab4cb550c96b9d3169f7a46dd56736732b5eba1c48b6c58e"
