@@ -3,7 +3,7 @@ DISTRO_COMMENT="Ubuntu 21.04 xfce"
 
 TARBALL_STRIP_OPT=0
 
-TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v2.3.1/ubuntu-aarch64-pd-v2.3.1.tar.xz
+TARBALL_URL['aarch64']="https://github.com/termux/proot-distro/releases/download/v2.3.1/ubuntu-aarch64-pd-v2.3.1.tar.xz"
 TARBALL_SHA256['aarch64']="599a0af87b110a9eab9f6f84b43243e497a73403397aeddb0d0b3cdb4ea54aa6"
 TARBALL_URL['arm']="https://github.com/termux/proot-distro/releases/download/v2.3.1/ubuntu-arm-pd-v2.3.1.tar.xz"
 TARBALL_SHA256['arm']="541415c3475bf1e15a1a4e91e2b1291410ed63a1a4b6d403f9096754d8f2bd74"
