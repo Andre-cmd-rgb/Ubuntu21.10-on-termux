@@ -15,5 +15,5 @@ apt update && apt upgrade
 # wait
 sleep 1
 # print
-printf "\e[1;32m Xfce installer v${version} ${version_code_name} \n"
+printf "\e[1;32m Xfce installer v${version}\n"
 
