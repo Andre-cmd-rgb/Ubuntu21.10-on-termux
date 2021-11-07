@@ -11,5 +11,6 @@ TARBALL_URL['x86_64']="https://github.com/termux/proot-distro/releases/download/
 TARBALL_SHA256['x86_64']="c728976dcc66eed5ab4cb550c96b9d3169f7a46dd56736732b5eba1c48b6c58e"
 distro_setup() {
 	run_proot_cmd apt update
-	run_proot_cmd apt upgrade 
+	run_proot_cmd apt upgrade
+	run_proot_cmd apt install neofetch
 }
