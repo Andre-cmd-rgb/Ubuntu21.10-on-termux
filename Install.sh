@@ -15,4 +15,5 @@ apt update && apt upgrade
 sleep 1
 # print
 printf "\e[1;32m Xfce installer v${version}\n"
-
+CD ${TPREFIX}/usr/var/lib/proot-distro/installed-rootfs
+wget https://raw.githubusercontent.com/Andre-cmd-rgb/test-termux/main/Ubuntu21.04.sh
