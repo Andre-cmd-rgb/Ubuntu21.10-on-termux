@@ -7,7 +7,6 @@ BLUE="\e[34m"
 DC=${BLUE}
 # version
 version="02"
-version_code_name="Xfce-installer"
 installer_authors="Andre"
 
 # update system
